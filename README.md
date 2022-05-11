@@ -1,11 +1,8 @@
 # COVID-19 Tracker
 
-### [Live Site](#)
-
-
 ## Introduction
 
-React workflow and hooks used for developing this project.
+React workflow, hooks and chartjs were used for developing this project.
 
 
 

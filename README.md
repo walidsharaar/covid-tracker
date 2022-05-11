@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-### [LLive Site](#)
+### [Live Site](#)
 
 
 ## Introduction

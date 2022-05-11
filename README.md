@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-### [LLive Site](https://covid19statswebsite.netlify.com/)
+### [LLive Site](#)
 
 
 ## Introduction
